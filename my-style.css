@@ -1,0 +1,307 @@
+#channel_header_info_item,
+#channel_page_scroller,
+#channel_topic,
+#channel_topic_container,
+#channel_topic_text,
+#client_body,
+#client_body:not(.onboarding):before,
+#client_header,
+#details_tab_header,
+#edit_topic_container,
+#edit_topic_inner,
+#file_list_container,
+#file_preview_scroller,
+#footer,
+#footer_msgs,
+#fs_modal,
+#fs_modal_footer,
+#fs_modal_header,
+#help_modal_header,
+#member_mentions,
+#member_preview_scroller,
+#mentions_options,
+#mentions_scroller,
+#menu_member_dm_input,
+#message_pane_scroller,
+#messages_container #footer,
+#monkey_scroll_bar_native_scrollbar_shim,
+#monkey_scroll_hider,
+#monkey_scroller,
+#msgs_scroller_div,
+#notification_bar,
+#page,
+#scrolling,
+#search_message_results,
+#search_options,
+#search_results_items,
+#team_list_container,
+#team_list_scroller,
+#whats_new_scroller,
+#whats_new_updates,
+.account_tab_set,
+.alert.alert_info,
+.alert.alert_warning,
+.btn_unstyle,
+.channel_header,
+.channel_page_about,
+.channel_page_highlights,
+.channel_page_members,
+.channel_page_notif_prefs,
+.channel_page_pinned_items,
+.channel_page_shared_files,
+.client_main_container,
+.day_divider:before,
+.file_list_item,
+.heading,
+.lfs_group,
+.lfs_input_container,
+.match,
+.member_current_status,
+.member_timezone_value,
+.mention_day_container_div,
+.menu.submenu,
+.menu_body,
+.menu_content,
+.menu_member_footer,
+.message_body,
+.message_content,
+.message_gutter,
+.message_icon,
+.message_pane_scroller,
+.monkey_scroll_bar_native_scrollbar_shim,
+.monkey_scroll_hider,
+.monkey_scroller,
+.msgs_scroller_div,
+.ql-blank,
+.ql-editor,
+.scrolling,
+.search_message_result,
+.search_result_with_extract,
+.searchable_member_list_filter,
+.slack_menu_download.slack_menu_section,
+.tab_pane,
+.toolbar_container,
+.unread_group_header,
+div.display_flex.flex_one.align_items_center.left_margin.display_real_names_block_sample,
+div.global_notification_block.no_padding,
+input.searchable_member_list_input,
+optgroup,
+ts-message {
+	background: #36393e!important
+}
+
+.channel_desktop_notifs,
+.highlight_yellow_bg {
+	color: #000!important;
+	border-radius: 3px;
+	padding: 2px
+}
+
+#presence,
+#presence_container,
+.c-icon--align-baseline,
+.c-icon--presence-onlin,
+.c-presence--active {
+	color: #93cc93!important
+}
+
+.mention {
+	color: #36393e!important
+}
+
+#channel_topic_text,
+.message_body {
+	color: #ededed!important
+}
+
+#a11y_keyboard_shortcuts,
+#back_from_member_preview,
+#channel_created_meta,
+#channel_files_title,
+#channel_meta_purpose_container,
+#channel_name,
+#channel_notif_prefs_title,
+#channel_page_scroller,
+#channel_page_title,
+#details_tab_header,
+#file_list_item,
+#fs_modal,
+#fs_modal_header,
+#help_modal_list_container,
+#highlights_title,
+#member_count_title,
+#mentions_options,
+#pinned_items_title,
+#prefs_a11y_animations,
+#prefs_channel_overrides,
+#prefs_highlight_words,
+#prefs_sounds_and_appearance,
+#welcome_user,
+#whats_new_updates,
+.admin_list_item,
+.admin_member_real_name,
+.btn_unstyle,
+.c-member__display-name,
+.c-member__display-name--large,
+.c-member__title,
+.channel_link,
+.channel_meta_end,
+.channel_meta_purpose,
+.channel_purpose_text,
+.creator_link,
+.current_status,
+.desktop_notifications_title,
+.dm_explanation,
+.icon_offset,
+.match,
+.member_name_and_presence,
+.message_content,
+.message_content_header,
+.message_content_header_left,
+.not_limited_copy,
+.notification_prefs_section,
+.pin_member_name,
+.preview.post_body,
+.ql-blank,
+.ql-editor,
+.threads_alternative_view_message,
+.threads_empty_state_message_header,
+.timezone_label,
+.title,
+.unread_empty_state_message,
+.whats_new_content,
+.whats_new_description,
+a,
+div.comment_body,
+h1,
+h4,
+input.searchable_member_list_input,
+p,
+table,
+td,
+tr {
+	color: #fff!important
+}
+
+button {
+	background: #36393e
+}
+
+#footer,
+#team_menu,
+.headroom.showSearch.headroom--top,
+.p-channel_sidebar__quickswitcher,
+.p-channel_sidebar__static_list,
+nav {
+	background: #303136!important
+}
+
+#msg_input,
+.search_input,
+.texty_single_line_input {
+	background: #484B50!important;
+	color: #fff!important
+}
+
+.autocomplete_menu_scrollable {
+	background: #36393E!important;
+	background-color: #36393e color: #fff!important
+}
+
+.internal_member_link {
+	background: #36393E!important
+}
+
+.feature_sli_file_search #search_results.all,
+.feature_sli_file_search #search_results.messages,
+.sidebar_menu_list_item {
+	background: #36393e!important
+}
+
+.divider_label {
+	color: #36393e!important
+}
+
+.c-member__display-name--small,
+span.charcoal_grey {
+	color: #8c8c8c!important
+}
+
+.bot_label,
+.header_label {
+	border-radius: 3px!important;
+	padding: .5px;
+	color: #8c8c8c!important
+}
+
+#flex_contents .subheading:not(:empty),
+.p-channel_sidebar__channel.p-channel_sidebar__channel--selected,
+h2.heading_text {
+	color: #fff!important
+}
+
+.help_modal_article_row:hover,
+.member_title,
+h2 {
+	color: #8c8c8c!important
+}
+
+.internal_member_link {
+	color: #9AD6D4!important
+}
+
+body,
+html {
+	color: #fff
+}
+
+.sidebar_menu_list_item {
+	color: #b7b7b7!important
+}
+
+.sidebar_menu_list_item:hover {
+	color: #fff!important;
+	background: #464a51!important;
+	border: 0
+}
+
+.tab_set a.secondary.selected,
+.tab_set a.selected {
+	background: #4e5259!important
+}
+
+div.card,
+div.clearfix,
+div.home_card,
+div.plastic_row {
+	color: #a0a0a0!important
+}
+
+h3 {
+	color: #8c8c8c!important
+}
+
+.ts_icon.ts_icon_presence.presence_icon {
+	color: #93cc93!important
+}
+
+.a.p-channel_sidebar__channel.p-channel_sidebar__channel--unread {
+	color: #fff!important
+}
+
+.p-channel_sidebar__channel {
+	color: #a0a0a0!important
+}
+
+.lfs_item,
+optgroup {
+	color: #4c4c4c!important
+}
+
+.file_header_title,
+.lfs_item.active,
+.lfs_item.selected,
+p.call_subinfo.no_bottom_margin,
+p.no_bottom_margin.overflow_ellipsis {
+	color: #000!important
+}
